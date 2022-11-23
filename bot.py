@@ -47,9 +47,9 @@ def callback_query(call):
     elif call.data == "b2":
         bot.send_message(call.message.chat.id,"https://youtu.be/Xy3lhhr8KEM")
     elif call.data == "b3":
-        bot.send_message(call.message.chat.id,"https://youtu.be/i3NkMTWs4NQ")
+        bot.send_message(call.message.chat.id,"https://www.youtube.com/watch?v=ERisa4IstlA")
     elif call.data == "b4":
-        bot.send_message(call.message.chat.id,"https://youtu.be/Kd9RX1wjmIc")
+        bot.send_message(call.message.chat.id,"https://youtu.be/i3NkMTWs4NQ")
     elif call.data == "b5":
         bot.send_message(call.message.chat.id,"https://youtu.be/AOsngbmlNTs")
     elif call.data == "b6":
