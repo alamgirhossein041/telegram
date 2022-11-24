@@ -4,7 +4,7 @@ import telebot
 chat_id = 12345
 
 button_1 = telebot.types.InlineKeyboardButton('1.NFT ဘယ်လို ကိုယ်တိုင်လုပ်မလဲ', callback_data='b1')
-button_2 = telebot.types.InlineKeyboardButton('2.NFT ကိုယ်တိုင် ဘယ်လိုလုပ်မလဲ', callback_data='b2')
+button_2 = telebot.types.InlineKeyboardButton('2.Binance မှာ NFT ဘယ်လိုတင်ကြမလဲ', callback_data='b2')
 button_3 = telebot.types.InlineKeyboardButton('3.Discord တွေမှာ NFT တွေနဲ့ ဘယ်လို ပိုက်ဆံ ရှာကြတာလဲ', callback_data='b3')
 button_4 = telebot.types.InlineKeyboardButton('4.Sunday talkie podcast 002', callback_data='b4')
 button_5 = telebot.types.InlineKeyboardButton('5.Sunday talkie podcast 003', callback_data='b5')
